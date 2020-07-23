@@ -1,0 +1,38 @@
+body {
+    background-color:bisque;
+}
+
+h1 {
+    color: blue;
+    font-size: 80px;
+    text-align: center;
+    background-color: lightblue;
+    border: 1px solid black;
+}
+
+.red {
+    color: red;
+    background-color: lightblue;
+}
+
+nav > ul > li {
+    display: inline;
+    font-size: 35px;
+    border: solid black 1px;
+    padding: 10px;
+    margin: 20px;
+}
+
+#hero1, #hero2 {
+    width: 800px;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+p {
+    background-color: white;
+    border: solid red 2px;
+}
